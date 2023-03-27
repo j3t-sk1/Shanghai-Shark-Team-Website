@@ -1,0 +1,20 @@
+body {
+    height: 100vmax;
+    width: 100vw;
+    background-color:dimgrey;
+}
+
+p {
+    /* color:brown; */
+}
+
+.image_ {
+   width: 300px;
+   height: 200px;
+
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
