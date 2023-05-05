@@ -17,6 +17,12 @@ img {
     border-radius: 0.75rem;
 }
 
+.pic {
+    width: 200px;
+    height: 250px;
+    border-radius: 1rem;
+}
+
 .small {
     padding-left: 2rem;
     color:aqua;
@@ -54,7 +60,7 @@ a:hover {
 }
 
 footer {
-    margin-left: 2rem;
+    margin-left: 4rem;
 }
 
 .back_button {
@@ -62,21 +68,24 @@ footer {
 }
 
 .project_overview {
-    margin-left: 5rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.pages {
+    margin-left: 3rem;
+    margin-bottom: 1rem;
 }
 
 .team_reports {
-    margin-left: 5rem;
+    margin-left: 7rem;
+    margin-bottom: 3rem;
 }
 
-.req_int {
-    margin-left: 5rem;
-}
-
-.team_intro {
-    margin-left: 5rem;
-}
-
-.software_test {
-    margin-left: 5rem;
+.team_mem {
+    padding-top: 0.5rem;
+    margin-left: 10rem;
+    margin-bottom: 3rem;
 }
