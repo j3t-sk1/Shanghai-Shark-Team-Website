@@ -1,0 +1,8 @@
+Team website repository link:
+https://github.com/j3t-sk1/Shanghai-Shark-Team-Website
+
+Project repository link:
+https://github.com/j3t-sk1/CS350-Recipe-Buddy-SS
+
+Team website link:
+https://j3t-sk1.github.io/Shanghai-Shark-Team-Website/
