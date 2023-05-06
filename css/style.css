@@ -23,6 +23,18 @@ img {
     border-radius: 1rem;
 }
 
+.pic1 {
+    width: 200px;
+    height: 300px;
+    border-radius: 1rem;
+}
+
+.pic2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 1rem;
+}
+
 .small {
     padding-left: 2rem;
     color:aqua;
